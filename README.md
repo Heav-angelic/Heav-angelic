@@ -47,8 +47,8 @@
   <p>˚₊ ࣪ ִֶָ☾. ₊˚</p>
 
 </div>
-<img <img width="736" height="694" alt="image" src="https://github.com/user-attachments/assets/59cdb576-f88b-40e5-b697-2546573a687a" />
-/>
+<img <img width="563" height="494" alt="image" src="https://github.com/user-attachments/assets/59cdb576-f88b-40e5-b697-2546573a687a" />
+IvanTill is so.. lovely!
 
 <!--
 **Heav-angelic/Heav-angelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
