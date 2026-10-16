@@ -27,8 +27,10 @@
   <h3>  ─── 𝔟𝔦𝔬𝔤𝔯𝔞𝔥𝔶 ───  </h3>
 
   <p>♰ love chilling in ponytown.</p>
-  <p>♰ love roblox.</p>
+  <p>♰ love playing roblox.</p>
   <p>♰ not that social or talkative.</p>
+  <p>♰ pansexual.</p>
+  <p>♰ into a lot of fandoms.</p>
 
   <br />
 
@@ -48,6 +50,7 @@
 
 </div>
 <img <img width="563" height="494" alt="image" src="https://github.com/user-attachments/assets/59cdb576-f88b-40e5-b697-2546573a687a" />
+
 IvanTill is so.. lovely!
 
 <!--
