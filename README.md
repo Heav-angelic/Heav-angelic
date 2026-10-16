@@ -1,4 +1,51 @@
-## Hi there 👋
+## <div align="center">
+
+  <!-- Header / Æstetisk Symbol -->
+  <p>࣪ ִֶָ☾. ₊˚</p>
+
+  <!-- Hovedtitel -->
+  <h1> ✧ ─── ₊˚ heav-angelic ˚₊ ─── ✧ </h1>
+  
+  <!-- Sikker Typing Effekt (Opdateret link) -->
+  <img src="https://demolab.com✦+welcome+to+my+purgatory+✦;˚₊+soft+rep+•+safe+server+₊˚;✧+fallen+from+grace+✧" alt="Typing SVG" />
+
+  <p><i>"Too heavenly for earth, too angelic for hell."</i></p>
+
+  <br />
+
+  <!-- Æstetiske Tekst-Knapper (Erstatter de skrøbelige badges) -->
+  <p>
+    <code><b>Status:</b> living</code> │ 
+    <code><b>Pronouns:</b> Ask Me</code>
+  </p>
+
+  <br />
+  <hr width="30%" size="1" color="#b0c4de" />
+  <br />
+
+  <!-- About Me Sektion -->
+  <h3>  ─── 𝔟𝔦𝔬𝔤𝔯𝔞𝔥𝔶 ───  </h3>
+
+  <p>* love chilling in ponytown.</p>
+  <p>* not that social or talkative.</p>
+
+  <br />
+
+  <!-- Pony Town / Socials lavet med stabile badges -->
+  <h3>  ─── my socials ───  </h3>
+
+  <p>
+    <a href="https://pony.town"><code> Pony Town </code></a> │ 
+    <a href="#"><code> Discord </code></a> │ 
+    <a href="#"><code> TikTok </code></a>
+  </p>
+
+  <br />
+  
+  <!-- Footer Symbol -->
+  <p>˚₊ ࣪ ִֶָ☾. ₊˚</p>
+
+</div>
 
 <!--
 **Heav-angelic/Heav-angelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
