@@ -36,11 +36,13 @@
 
   <!-- Pony Town / Socials lavet med stabile badges -->
   <h3>  ─── 𝔪𝔶 𝔰𝔬𝔠𝔦𝔞𝔩𝔰 ───  </h3>
+   --- 'ask      for       user' ---
 
   <p>
     <a href="https://pony.town"><code> Pony Town </code></a> │ 
-    <a href="https://discord.com/"><code>[Discord, ask for user] </code></a> │ 
-    <a href="https://www.tiktok.com/@heav_angelic"><code> TikTok </code></a>
+    <a href="https://discord.com/"><code>[Discord] </code></a> │ 
+    <a href="https://www.tiktok.com/"><code> TikTok </code></a> │ 
+    <a href="https://www.roblox.com"><code> Roblox </code></a> 
   </p>
 
   <br />
