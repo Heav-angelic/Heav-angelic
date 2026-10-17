@@ -4,7 +4,7 @@
   <p>࣪ ִֶָ☾. ₊˚</p>
 
   <!-- Hovedtitel -->
-  <h1> ✧ ─── ₊˚ heav-angelic ˚₊ ─── ✧ </h1>
+  <h1> ✧ ─── ₊˚ HeavenlY ˚₊ ─── ✧ </h1>
   
   <!-- Sikker Typing Effekt (Opdateret link) -->
   
