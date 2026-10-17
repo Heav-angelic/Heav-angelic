@@ -51,9 +51,9 @@
   <p>˚₊ ࣪ ִֶָ☾. ₊˚</p>
 
 </div>
-<img <img width="563" height="494" alt="image" src="https://github.com/user-attachments/assets/59cdb576-f88b-40e5-b697-2546573a687a" />
+<img width="468" height="660" alt="image" src="https://github.com/user-attachments/assets/b24aaa67-39f8-4016-90f1-b2cc109c14b9" />
 
-IvanTill is so.. lovely!
+two time fictionkin
 
 <!--
 **Heav-angelic/Heav-angelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
