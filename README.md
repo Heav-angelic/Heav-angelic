@@ -31,7 +31,7 @@
   <p>♰ not that social or talkative.</p>
   <p>♰ pansexual.</p>
   <p>♰ into a lot of fandoms.</p>
-   <p>♰ median system, currently 5 facets.</p>
+   <p>♰ monoconscious median system, currently 5 facets.</p>
    <p>♰ fictional facet.</p>
  <br />
 
