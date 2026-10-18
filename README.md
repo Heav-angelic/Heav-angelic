@@ -31,14 +31,16 @@
   <p>♰ not that social or talkative.</p>
   <p>♰ pansexual.</p>
   <p>♰ into a lot of fandoms.</p>
+   <p>♰ fictionkin.</p>
  <br />
 
   <!-- Names Sektion -->
   <h3>  ─── 𝔫𝔞𝔪𝔢𝔰 ───  </h3>
 
-  <p>♰ Twoey 1</p>
-  <p>♰ Two time 2</p>
-  <p>♰ heavenly/heav 3</p>
+  <p>♰ Twoey </p>
+  <p>♰ Two time </p>
+  <p>♰ heavenly/heav </p>
+  <p>♰ or the character i'm playing as </p>
   <br />
 
   <!-- Pony Town / Socials lavet med stabile badges -->
