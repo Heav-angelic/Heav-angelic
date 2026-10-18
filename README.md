@@ -31,7 +31,8 @@
   <p>♰ not that social or talkative.</p>
   <p>♰ pansexual.</p>
   <p>♰ into a lot of fandoms.</p>
-   <p>♰ fictionkin.</p>
+   <p>♰ median system, currently 5 facets.</p>
+   <p>♰ fictional facet.</p>
  <br />
 
   <!-- Names Sektion -->
@@ -62,7 +63,7 @@
 </div>
 <img width="468" height="660" alt="image" src="https://github.com/user-attachments/assets/b24aaa67-39f8-4016-90f1-b2cc109c14b9" />
 
-°˖⊹.ᴛᴡᴏ ᴛɪᴍᴇ ꜰɪᴄᴛɪᴏɴᴋɪɴ.⊹˖°
+°˖⊹.ᴛᴡᴏ ᴛɪᴍᴇ ꜰᴀᴄᴛɪᴏɴᴀʟ.⊹˖°
 
 <!--
 **Heav-angelic/Heav-angelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
