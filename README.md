@@ -1,7 +1,7 @@
 ## <div align="center">
 
   <!-- Header / Æstetisk Symbol -->
-  <p>࣪ ִֶָ☾. ₊˚</p>
+  <p>࣪ ִֶָᨳଓ. ₊˚</p>
 
   <!-- Hovedtitel -->
   <h1> ✧ ─── ₊˚ HeavenlY ˚₊ ─── ✧ </h1>
@@ -48,7 +48,7 @@
   <br />
   
   <!-- Footer Symbol -->
-  <p>˚₊ ࣪ ִֶָ☾. ₊˚</p>
+  <p>˚₊ ࣪ ݁˖ ִֶָ☾.˚꩜࿔ ₊˚</p>
 
 </div>
 <img width="468" height="660" alt="image" src="https://github.com/user-attachments/assets/b24aaa67-39f8-4016-90f1-b2cc109c14b9" />
