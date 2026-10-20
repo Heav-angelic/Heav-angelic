@@ -42,7 +42,8 @@
   <p>♰ Twoey </p>
   <p>♰ Two time </p>
   <p>♰ heavenly/heav </p>
-  <p>♰ or the character i'm playing as </p>
+  <p>♰ name of my other facet </p>
+  <p>♰ the character i'm playing as </p>
   <br />
 
   <!-- Pony Town / Socials lavet med stabile badges -->
