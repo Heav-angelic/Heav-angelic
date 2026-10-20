@@ -52,7 +52,7 @@
 
   <p>
     <a href="https://pony.town"><code> Pony Town </code></a> │ 
-    <a href="https://discord.com/"><code>[Discord] </code></a> │ 
+    <a href="https://discord.com/"><code> Discord </code></a> │ 
     <a href="https://www.tiktok.com/"><code> TikTok </code></a> │ 
     <a href="https://www.roblox.com"><code> Roblox </code></a> 
   </p>
