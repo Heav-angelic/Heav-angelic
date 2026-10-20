@@ -28,7 +28,7 @@
 
   <p>♰ love chilling in ponytown.</p>
   <p>♰ love playing roblox.</p>
-  <p>♰ not that social or talkative.</p>
+  <p>♰ not that social or talkative, talking interactions can be overwhelming.</p>
   <p>♰ pansexual.</p>
   <p>♰ into a lot of fandoms.</p>
   <p>♰ monoconscious median system, currently 5 facets.</p>
