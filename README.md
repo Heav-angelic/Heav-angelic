@@ -47,7 +47,7 @@
   <br />
 
   <!-- Pony Town / Socials lavet med stabile badges -->
-  <h3>  ─── 𝔪𝔶 𝔰𝔬𝔠𝔦𝔞𝔩𝔰 ───  </h3>
+  <h3>  ───ˎˊ˗ 𝔪𝔶 𝔰𝔬𝔠𝔦𝔞𝔩𝔰 ˗ˋˏ───  </h3>
    --- 'ask      for       user' ---
 
   <p>
