@@ -39,7 +39,7 @@
   <!-- Names Sektion -->
   <h3>  ─── 𝔫𝔞𝔪𝔢𝔰 ───  </h3>
 
-  <p>♰ Twoey </p>
+  <p>♰ Twoey, Timey by azure </p>
   <p>♰ Two time </p>
   <p>♰ heavenly/heav </p>
   <p>♰ name of my other facet </p>
