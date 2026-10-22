@@ -24,7 +24,7 @@
   <br />
 
   <!-- About Me Sektion -->
-  <h3>  ─── 𝔟𝔦𝔬𝔤𝔯𝔞𝔥𝔶 ───  </h3>
+  <h3>  ───꒷꒦ 𝔟𝔦𝔬𝔤𝔯𝔞𝔥𝔶 ꒷꒦───  </h3>
 
   <p>♰ love chilling in ponytown.</p>
   <p>♰ love playing roblox.</p>
@@ -37,7 +37,7 @@
  <br />
 
   <!-- Names Sektion -->
-  <h3>  ─── 𝔫𝔞𝔪𝔢𝔰 ───  </h3>
+  <h3>  ───ʚ 𝔫𝔞𝔪𝔢𝔰 ɞ───  </h3>
 
   <p>♰ Twoey, Timey by azure </p>
   <p>♰ Two time </p>
