@@ -19,6 +19,7 @@
     <code><b>Pronouns:</b> Ask Me</code>
   </p>
 
+
   <br />
   <hr width="30%" size="1" color="#b0c4de" />
   <br />
@@ -54,7 +55,7 @@
     <a href="https://pony.town"><code> Pony Town </code></a> │ 
     <a href="https://discord.com/"><code> Discord </code></a> │ 
     <a href="https://www.tiktok.com/"><code> TikTok </code></a> │ 
-    <a href="https://www.roblox.com"><code> Roblox </code></a> 
+    <a href="https://www.roblox.com"><code> Roblox </code></a> │
   </p>
 
   <br />
@@ -66,6 +67,12 @@
 <img width="468" height="660" alt="image" src="https://github.com/user-attachments/assets/b24aaa67-39f8-4016-90f1-b2cc109c14b9" />
 
 °˖⊹.ᴛᴡᴏ ᴛɪᴍᴇ ꜰᴀᴄᴛɪᴠᴇ.⊹˖°
+
+
+<hr width="100%" size="1" color="#b0c4de" />
+<h3>  ───ᯓ‎♪ 𝔖𝔬𝔫𝔤𝔰 ♪ᯓ‎───  </h3>
+
+<a href="https://open.spotify.com/track/37ZgRbU8u0Z4sWVkGt6vvO)"><code> scars 4 u </code></a>  │  <a href="https://open.spotify.com/track/53I2zefF1o3flr6DM6NP8l)"><code> at the party </code></a> │  <a href="https://open.spotify.com/track/13Z5EtBUd10JVUuEOObBU8"><code> manipulation song </code></a> │  <a href="https://open.spotify.com/track/0uUIxaQLOMcJIE1XVydsx4"><code> song bye cruel world cypher </code></a> │  <a href="https://open.spotify.com/track/6lQeDy6gpLf6i0jdDNNxl6"><code> love it when you hate me </code></a> │  <a href="https://open.spotify.com/track/6lQeDy6gpLf6i0jdDNNxl6](https://open.spotify.com/track/24r95AehXkUdyqQa0VuT9T)"><code> glad_u_came </code></a> │
 
 <!--
 **Heav-angelic/Heav-angelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
